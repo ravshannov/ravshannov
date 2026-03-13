@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Maqsud Ravshanov! 👋
 
-<!--
-**ravshannov/ravshannov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Road to AI/ML Engineering 🚀
 
-Here are some ideas to get you started:
+I am a technical specialist focused on high-performance data pipelines and AI automation. Currently executing an intensive **100-day technical sprint** to master advanced SQL, Python, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠 **Current Projects:** Migrating reporting systems to automated PostgreSQL pipelines and building AI agents.
+- 🤖 **Tech Stack:** Python, SQL (PostgreSQL), Power BI, Docker, n8n, Ollama.
+- ⚡ **Daily Habit:** 4:00 AM technical practice and deep work.
+- 🎯 **Goal:** Becoming a Top 1% Specialist in AI Engineering.
+
+---
+
+### 🛠 Skills & Tools
+- **Languages:** Python, SQL
+- **Data:** PostgreSQL, Power BI, API Automation
+- **DevOps:** Docker, n8n (Automation Workflows)
+- **AI:** Local LLMs (Llama 3), Prompt Engineering
+
+### 📈 My 100-Day Challenge Progress
+- **Start:** Feb 21, 2026
+- **Goal Date:** May 31, 2026
